@@ -1,0 +1,57 @@
+Aula 1 - Paradigmas de Linguagem de Programação
+
+* Introdução:
+
+1- Sequência de Passos
+ => Para atingir um objetivo bem definido.
+
+2- Sequência Finita
+ => De instruções cuja execução, em tempo finito, resolve um problema.
+
+3- Conjunto de Comandos
+ => Que resultam numa sucessão finita de ações.
+
+#########################################################################
+
+* Aplicações:
+
+1- Solução de Problemas
+ => Porém gerando sempre a mesma resposta,
+    um mesmo problema pode ser resolvido de 
+    diversas maneiras.
+
+2- Algoritmos
+ => Vários algoritmos podem atender a um mesmo problema.
+
+#########################################################################
+
+* Lógica de Programação:
+
+- Etapas:
+
+1 => O Problema: Descrição do problema.
+2 => Análise: Identificação de dados, entradas, processamento e saídas.
+3 => Modelagem: Fluxogramas, etapas e procedimentos.
+4 => Algoritmo: Codigicação, linguagem de programação e arquitetura.
+5 => Implementação e Testes: Desenvolvimento da solução para o problema.
+
+#########################################################################
+
+* Entender o Problema:
+
+1 => Objetivo: Qual objetivo deve ser alcançado ao final.
+2 => Compreender o Problema: Entender o problema em detalhes, pensando em formas de resolvê-lo.
+3 => Dados de Entrada: De quais dados o algoritmo precisa para resolver o problema.
+4 => Dados de Saída: Quais respostas o algoritmo deve devolver ao final.
+5 => Sequência + Lógica (Procedimentos): Quais operaçãoes/etapas devem ser realizadas.
+6 => Programar e Testar: Os resultados obtidos estão de acordo com o que se espera.
+
+#########################################################################
+
+- Importante lembrar -
+
+=> Partes ou detalhes do problema que devem ser desprezados para não prejudicar o entendimento.
+
+=> Etapas de um algoritmo que pertencem a outro(s) algoritmo(s).
+
+#########################################################################

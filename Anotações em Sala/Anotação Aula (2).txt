@@ -1,0 +1,17 @@
+- Paradigma Estruturado -
+
+=> Estruturas de Dados:
+
+* Vetor		  Práticas
+* Matriz	{ Linguagem
+* Dicionários	  Python
+
+Paradigma Orientado a Objetos
+
+=> Modular
+ => Arquitetura de Componentes (MVC).
+ => Linhas de Produtos de Software.
+ => Modelagem de Fábrica de Carros
+    - Herança, Polimorfismo, Interface,
+      Sobrecarga Métodos, Atributos, Agregação,
+      Composição, Herança Multipla.

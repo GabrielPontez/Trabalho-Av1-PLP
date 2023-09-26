@@ -1,0 +1,50 @@
+Aula - 22/09
+
+PLP - Roteiro
+
+=> Carreiras e Profissões nas áreas de Dados e IA. [Visão geral e Oportunidades]:
+
+* Analista de Dados
+* Cientista de Dados, etc...
+
+=> Paradigma Orientado a Objetos:
+
+- {Linguagem Java}
+    - Classes abstratas, interfaces, herança simples e multiplas,
+      agregação, composição, sobrecarga de atributos e métodos,
+      padrões: abstract factory, factory method, facade, etc.
+
+=> Analista de Dados:
+    - Negócios, BI;
+    - Bancos de Dados (SQL, NoSQL);
+    - Estatísticas Básicos;
+    - Tecnologia TI.
+
+=> Engenheiro de Dados:
+    - TI, Programação avançada, DevOps, MLOps;
+    - Cloud, Big Data, Data Lake, Lake House, etc;
+    - Fluxos e Arq. Dados e Plataformas;
+    - Hive, Sqoop, Nifi, Airflow, Spark, Flink, etc.
+
+=> Cientista de Dados:
+    - Negócios, BI (R, Python);
+    - Estatísticas e Matemática;
+    - TI, Bancos Avançados;
+    - Frameworks e Ferramentas.
+
+=> Engenheiro de BlockChain:
+    - Negócio;
+    - Bancos, API, Rest, etc; {Solidity, Go Lang, Java, Python}
+    - Frameworks, Segurança com Criptografia e Cloud.
+
+=> Eng. Machine Learning:
+    - Full Stack, DevOps, MLOps;
+    - CI, AN, Eng. Dados;
+    - Fluxo e Orquestração de Dados, etc.
+
+=> Eng. de IA:
+    - Ciência de Dados;
+    - Robótica, IA;
+    - RPA e IA;
+    - IA Generativa / Deep Learning;
+    - Visão Computacional.
